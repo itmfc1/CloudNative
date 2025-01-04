@@ -24,7 +24,7 @@ github地址：https://github.com/itmfc1/CloudNative
 
 
 
-![云原生](imgs/云原生架构师.png)
+![云原生](images/云原生架构师.png)
 
 ## 目录
 
